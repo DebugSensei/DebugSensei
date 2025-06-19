@@ -1,4 +1,4 @@
-name: Update Profile Stats
+name: Update WakaTime Stats
 
 on:
   schedule:
@@ -10,8 +10,9 @@ permissions:
 
 jobs:
   update-stats:
-    name: Update WakaTime Stats and Code Metrics
+    name: Update WakaTime Stats in README
     runs-on: ubuntu-latest
+    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -24,11 +25,3 @@ jobs:
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TOTAL: true
-          
-      - name: Update GitHub Stats
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Updated GitHub activity'
-          MAX_LINES: 10 
