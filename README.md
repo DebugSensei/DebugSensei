@@ -1,5 +1,14 @@
-<h1 align="center">Hey there, I'm Ivan 👋</h1>
-<h3 align="center">Backend Developer | Python • JS • Go • Bots</h3>
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ivan!;Backend+Developer+🚀;Python+•+Go+•+TypeScript;Building+Amazing+Bots+🤖"/>
+
+</div>
+
+<div align="center">
+  
+*"Optimizing systems, automating processes, and building scalable solutions that make a difference."*
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DebugSensei&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
@@ -9,10 +18,25 @@
 
 ### 🧠 About me
 
-- 💼 I'm a backend developer working with **Python, Go, TypeScript**
-- 🤖 I build **Telegram and Discord bots**, APIs and automation tools
-- 🎯 Currently focusing on microservices and low-level Go
-- 🌍 Open to remote backend opportunities
+- 💼 **5+ years** of experience as a Backend Developer specializing in **Python, Go, TypeScript**
+- 🤖 Building **enterprise-grade bots** for Telegram and Discord with **40%+ efficiency improvements**
+- 🏗️ Expert in **microservices architecture** and **low-level system optimization**
+- 📈 **Reduced API response time by 30%** through database query optimization
+- 🚀 Successfully implemented **containerization systems** reducing deployment time by **50%**
+- 🔧 Specialized in **P2P networks**, **B2B integrations**, and **payment systems**
+- 🌍 Open to **remote backend opportunities** and **consulting projects**
+
+---
+
+### 📬 Connect with me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-poda/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IvanP2005)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debugsenseifbx@gmail.com)
+
+</div>
 
 ---
 
@@ -88,15 +112,49 @@ INI   8 mins          ███████████████████�
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 Recent Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebugSensei&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DebugSensei&theme=tokyonight" />
-</p>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
+
+### 🔥 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DebugSensei&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebugSensei&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=DebugSensei&theme=tokyonight&hide_border=false"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebugSensei&theme=tokyo-night"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=DebugSensei&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+**"Building the future, one line of code at a time"** 💫
+
+</div>
 
