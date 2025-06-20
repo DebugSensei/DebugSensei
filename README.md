@@ -43,9 +43,9 @@
 ```txt
 From: 12 June 2025 - To: 19 June 2025
 
-Total Time: 8 mins
+Total Time: 17 mins
 
-INI   8 mins          █████████████████████████   100.00 %
+INI   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
