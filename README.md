@@ -41,6 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 12 June 2025 - To: 19 June 2025
+
+Total Time: 8 mins
+
 INI   8 mins          █████████████████████████   100.00 %
 ```
 
