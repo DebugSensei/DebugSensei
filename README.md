@@ -41,11 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Total Time: 17 mins
+Total Time: 3 hrs 25 mins
 
-INI   17 mins         █████████████████████████   100.00 %
+Markdown   1 hr 54 mins    █████████████▓░░░░░░░░░░░   54.78 %
+YAML       41 mins         █████░░░░░░░░░░░░░░░░░░░░   19.78 %
+Python     29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+INI        19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Other      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
