@@ -39,6 +39,15 @@
 ### ⏱️ This week I spent my time on
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 12 June 2025 - To: 19 June 2025
+
+Total Time: 8 mins
+
+INI   8 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
