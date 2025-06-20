@@ -39,15 +39,6 @@
 ### ⏱️ This week I spent my time on
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 12 June 2025 - To: 19 June 2025
-
-Total Time: 8 mins
-
-INI   8 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
@@ -105,13 +96,6 @@ INI   8 mins          ███████████████████�
 ![Telegram API](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Discord API](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Webhooks](https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge&logo=webhook&logoColor=white)
-
----
-
-### 📊 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 
 ---
 
