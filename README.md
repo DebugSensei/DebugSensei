@@ -41,15 +41,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-Total Time: 1 hr 10 mins
+Total Time: 2 hrs 4 mins
 
-Python                     1 hr 5 mins     ███████████████████████░░   92.20 %
-JavaScript                 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Nginx configuration file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python                     1 hr 58 mins    ████████████████████████░   95.38 %
+Nginx configuration file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JavaScript                 1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
